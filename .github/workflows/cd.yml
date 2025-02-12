@@ -45,3 +45,5 @@ jobs:
             cd fastapi-book-project/
             git pull
             docker-compose up -d --build
+
+            
